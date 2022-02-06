@@ -2,7 +2,7 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <title>Spin-off z "Grafika Komputerowa"</title>
+        <title>"Grafika Komputerowa"</title>
         <style>
         
         h2 {
